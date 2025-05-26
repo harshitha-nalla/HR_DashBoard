@@ -26,29 +26,43 @@ A modern, responsive HR Performance Dashboard built with *Next.js App Router, **
 
 app/
 ├── layout.tsx
+
 ├── page.tsx               // Dashboard Homepage
+
 ├── bookmarks/             // Bookmarked employees
+
 ├── analytics/             // Charts & insights
+
 ├── employee/\[id]/         // Dynamic profile pages
 
 components/
 ├── EmployeeCard.tsx
+
 ├── RatingStars.tsx
+
 ├── Tabs.tsx
+
 ├── Modal.tsx
+
 ├── SearchBar.tsx
+
 ├── FilterDropdown.tsx
 
 context/
+
 ├── BookmarkContext.js
+
 ├── ThemeContext.js
 
 hooks/
 ├── useBookmarks.js
+
 ├── useSearchFilter.js
 
 lib/
+
 ├── data.js                // Static mock data (20 employees)
+
 ├── constants.js
 
 styles/
