@@ -68,6 +68,7 @@ lib/
 ├── constants.js
 
 styles/
+
 ├── globals.css
 
 `
@@ -121,9 +122,13 @@ styles/
 ## 🌈 Color Palette
 
 | Role       | Color     |
+
 |------------|-----------|
+
 | Primary    | #6366F1 (Indigo) |
+
 | Secondary  | #10B981 (Emerald) |
+
 | Accent     | #F59E0B (Amber)  |
 
 ---
