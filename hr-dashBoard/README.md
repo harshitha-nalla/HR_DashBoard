@@ -138,9 +138,9 @@ styles/
 
 1. *Clone the repo*
    bash
-   git clone https://github.com/your-username/hr-dashboard-flam.git
-   cd hr-dashboard-flam
-`
+   git clone https://github.com/harshitha-nalla/HR_DashBoard.git
+   cd HR_DashBoard
+
 
 2. *Install dependencies*
 
