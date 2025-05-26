@@ -148,16 +148,18 @@ styles/
 3. *Install dependencies*
 
    bash
+
    npm install
    
 
-4. *Run the development server*
+5. *Run the development server*
 
    bash
+
    npm run dev
    
 
-5. Open http://localhost:3000 in your browser.
+7. Open http://localhost:3000 in your browser.
 
 ---
 
