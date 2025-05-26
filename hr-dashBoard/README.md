@@ -36,6 +36,7 @@ app/
 ├── employee/\[id]/         // Dynamic profile pages
 
 components/
+
 ├── EmployeeCard.tsx
 
 ├── RatingStars.tsx
@@ -55,6 +56,7 @@ context/
 ├── ThemeContext.js
 
 hooks/
+
 ├── useBookmarks.js
 
 ├── useSearchFilter.js
