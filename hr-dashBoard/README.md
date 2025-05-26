@@ -131,11 +131,6 @@ styles/
 
 | Accent     | #F59E0B (Amber)  |
 
----
-
-## 📸 Screenshots
-
-> Add 3–5 screenshots of the app: homepage, details page, bookmarks, analytics
 
 ---
 
