@@ -137,24 +137,27 @@ styles/
 ## 🧪 How to Run
 
 1. *Clone the repo*
+   
    bash
+
    git clone https://github.com/harshitha-nalla/HR_DashBoard.git
+
    cd HR_DashBoard
 
 
-2. *Install dependencies*
+3. *Install dependencies*
 
    bash
    npm install
    
 
-3. *Run the development server*
+4. *Run the development server*
 
    bash
    npm run dev
    
 
-4. Open http://localhost:3000 in your browser.
+5. Open http://localhost:3000 in your browser.
 
 ---
 
