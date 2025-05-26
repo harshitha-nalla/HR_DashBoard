@@ -177,18 +177,3 @@ styles/
 
 This project is submitted as part of the *Frontend Internship Assignment for Flam*.
 
-*Submitted by:* Your Name
-*Email:* [your.email@example.com](mailto:your.email@example.com)
-*GitHub Repo:* [github.com/your-username/hr-dashboard-flam](https://github.com/your-username/hr-dashboard-flam)
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License — feel free to build on top of it.
-
----
-
-```
-
----
